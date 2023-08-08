@@ -79,4 +79,4 @@ Este proyecto ha sido posible gracias a la valiosa contribución de cada uno de 
 
 -   [Xavi Albert](https://github.com/XaviAlbert)
 
--   [Javier Tejero](https://github.com/jateru)
+-   [Javier Tejero](https://github.com/javiertejero1)
