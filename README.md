@@ -39,7 +39,6 @@ Esta carpeta contiene los siguientes archivos:
 <h3 id="src"> :floppy_disk: src</h3>
 Esta carpeta contiene los siguientes archivos [Ver contenido](#src)
 
-
 -   **modeling.py**
 -   **preprocessing.py**
 -   **visualization.py**
@@ -48,37 +47,36 @@ Esta carpeta contiene los siguientes archivos [Ver contenido](#src)
 
 Esta carpeta contiene funciones de test para comprobar el correcto funcionamiento de la biblioteca.
 
-
 <h3 id="Contribuidores"> :family: Contribuidores</h3>
 
-Este proyecto ha sido posible gracias a la valiosa contribución de cada uno de los siguientes integrantes, cuyo esfuerzo conjunto ha hecho posible su desarrollo: 
+Este proyecto ha sido posible gracias a la valiosa contribución de cada uno de los siguientes integrantes, cuyo esfuerzo conjunto ha hecho posible su desarrollo:
 
--   [Javier Fernández](https://github.com/jaferdy) 
+-   [Javier Fernández](https://github.com/jaferdy)
 
--   [Santiago Valencia](https://github.com/Kuja182) 
+-   [Santiago Valencia](https://github.com/Kuja182)
 
--   [Giacomo Salerno](https://github.com/GiamoSalerno) 
+-   [Giacomo Salerno](https://github.com/GiamoSalerno)
 
--   [Alex Marzá](https://github.com/AlexCapis) 
+-   [Alex Marzá](https://github.com/AlexCapis)
 
--   [Gabriela Romina Lupas](https://github.com/GabrielaRomina) 
+-   [Gabriela Romina Lupas](https://github.com/GabrielaRomina)
 
--   [Judit Roca](https://github.com/JuditRoca) 
+-   [Judit Roca](https://github.com/JuditRoca)
 
--   [Alfredo Ruiz Santos](https://github.com/maestre7) 
+-   [Alfredo Ruiz Santos](https://github.com/maestre7)
 
--   [Blanca Marmolejo](https://github.com/BlancaMarmolejo) 
+-   [Blanca Marmolejo](https://github.com/BlancaMarmolejo)
 
--   [Braulio Vicente Gilabert Sol](https://github.com/braugilabert) 
+-   [Braulio Vicente Gilabert Sol](https://github.com/braugilabert)
 
--   [Jaime Puchol](https://github.com/jpucholv) 
+-   [Jaime Puchol](https://github.com/jpucholv)
 
--   [Juan A-Mendizábal Ibarrola](https://github.com/juanmendiz) 
+-   [Juan A-Mendizábal Ibarrola](https://github.com/juanmendiz)
 
--   [Victoria Suárez](https://github.com/Vihelmet) 
+-   [Victoria Suárez](https://github.com/Vihelmet)
 
--   [Erika Guzmán](https://github.com/Erikahenriquez78) 
+-   [Erika Guzmán](https://github.com/Erikahenriquez78)
 
--   [Xavi Albert](https://github.com/XaviAlbert) 
+-   [Xavi Albert](https://github.com/XaviAlbert)
 
--   [Javier Tejero](https://github.com/javiertejero1) 
+-   [Javier Tejero](https://github.com/jateru)
